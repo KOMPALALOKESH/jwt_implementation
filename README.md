@@ -232,7 +232,7 @@ Secured user & admin APIs:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/jwt_db?useSSL=false
 spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.password=root123
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
